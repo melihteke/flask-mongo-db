@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>All Records</title>
+</head>
+<body>
+	<h1>All Records</h1>
+	<table>
+		<thead>
+			<tr>
+                <th>ID</th>
+				<th>Title</th>
+				<th>Author</th>
+				<th>Year</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for record in records %}
+				<tr>
+                    <td>{{ record['_id'] }}</td>
+					<td>{{ record['title'] }}</td>
+					<td>{{ record['author'] }}</td>
+					<td>{{ record['year'] }}</td>
+				</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+    <a href="{{ url_for('home') }}"><button>Back to Home</button></a>
+</body>
+</html>

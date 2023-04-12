@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+</head>
+<body>
+	<h1>Welcome to my MongoDB CRUD App!</h1>
+	<p>This application connects to a MongoDB database and allows you to perform CRUD (Create, Read, Update, Delete) operations on a collection of records.</p>
+	<p>Using this app, you can:</p>
+	<ul>
+		<li>Add new records to the collection : <a href="{{ url_for('add_record') }}"><button>Add Record</button></a> </li>
+		<li>View all the records in the collection : <a href="{{ url_for('view_all_records') }}"><button>View All Records</button></a> </li>
+		<li>Update existing records in the collection : <a href="{{ url_for('update_record') }}"><button>Update Record</button></a></li>
+		<li>Delete records from the collection : <a href="{{ url_for('remove_record') }}"><button>Remove Record</button></a> </li>
+	</ul>
+	<p>To get started, click on one of the links in the navigation bar at the top of the page.</p>
+</body>
+</html>
