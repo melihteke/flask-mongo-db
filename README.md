@@ -32,10 +32,11 @@ python main.py
 ### Remark
 Hey there! Thanks for checking out this app. I built this to demonstrate how Flask and MongoDB work together, so I didn't spend much time on the cosmetics of the web pages like Bootstrap or CSS. My focus was on the technical implementation, so we hope this app gives you some useful insights. If you have any questions or feedback, feel free to get in touch with me.
 
+
+#### home-page
 ![image](https://user-images.githubusercontent.com/36086368/231597573-a9b67532-cf9e-4fa9-b088-dae4c36b52d9.png)
 
 
-![image](https://user-images.githubusercontent.com/36086368/231595749-4d9d1267-f4fc-4d9d-b6ac-f19f1a2fbd93.png)
 
 ![image](https://user-images.githubusercontent.com/36086368/231597474-92bd7a0a-88a1-4385-b879-7f0d97819689.png)
 
