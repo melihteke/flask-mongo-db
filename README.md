@@ -10,7 +10,7 @@ To run this application, you need to have Python (version 3.7 or higher) and Mon
 Clone the repository to your local machine using the command:
 
 ```sh
-git clone https://github.com/<username>/<repository-name>.git
+https://github.com/melihteke/flask-mongo-db.git
 ```
 Alternatively, you can download the repository as a ZIP file and extract it.
 
