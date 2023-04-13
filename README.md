@@ -30,7 +30,7 @@ python main.py
 3. Open your web browser and go to http://localhost:8081 to access the application.
 
 ### Remark
-Hey there! Thanks for checking out this app. I built this to demonstrate how Flask and MongoDB work together, so I didn't spend much time on the cosmetics of the web pages like Bootstrap or CSS. My focus was on the technical implementation, so we hope this app gives you some useful insights. If you have any questions or feedback, feel free to get in touch with me.
+Hey there! Thanks for checking out this app. I built this to demonstrate how Flask and MongoDB work together, so I didn't spend much time on the cosmetics of the web pages like Bootstrap or CSS. My focus was on the technical implementation, so I hope this app gives you some useful insights. If you have any questions or feedback, feel free to get in touch with me.
 
 
 ### Screen-shots
